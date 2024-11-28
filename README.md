@@ -2,6 +2,8 @@
 
 Our project provides consumers with an intuitive platform for making informed purchasing decisions. Whether searching by company name or scanning a product barcode, users gain access to detailed ethical scores across six critical categories: climate sustainability, human rights violations, child labor practices, livable wages, diversity, equity, and inclusion (DEI), and animal cruelty. By having these scores readily available, consumers can align their purchases with their values, supporting companies that prioritize ethical practices and driving positive social and environmental impact.
 
+[Video Demo](https://file.notion.so/f/f/d83971e5-26d6-43ac-a27a-17fe122d6a47/2f925af1-2f94-4f3e-87e4-a5015bb1d77d/RPReplay_Final1717524972.mp4?table=block&id=5bddb03e-65f7-4dce-8f10-bda7e5a0afb6&spaceId=d83971e5-26d6-43ac-a27a-17fe122d6a47&expirationTimestamp=1732860000000&signature=ukq5sExGHfSy5FcL3UvkC6MKc4G5cN0Jdx93evHpuu8&downloadName=RPReplay_Final1717524972.MP4.mp4)
+
 ## Architecture
 
 Our project employs React Native for the frontend and features a backend API crafted with React, Express, and Node.js, supported by a MongoDB database.
