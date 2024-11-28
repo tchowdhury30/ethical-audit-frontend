@@ -1,7 +1,5 @@
 # Ethical Audit
 
-![Team Photo](https://github.com/dartmouth-cs52-24s/project-client-boycotting-injustice/assets/34690647/854a29a0-f791-4b1d-bc77-b7da53deb94a)
-
 Our project provides consumers with an intuitive platform for making informed purchasing decisions. Whether searching by company name or scanning a product barcode, users gain access to detailed ethical scores across six critical categories: climate sustainability, human rights violations, child labor practices, livable wages, diversity, equity, and inclusion (DEI), and animal cruelty. By having these scores readily available, consumers can align their purchases with their values, supporting companies that prioritize ethical practices and driving positive social and environmental impact.
 
 ## Architecture
